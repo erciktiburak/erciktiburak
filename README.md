@@ -35,7 +35,6 @@
 </p>
 
 ## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&color=informational&logo=java)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&color=informational&logo=python)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
