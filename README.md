@@ -35,6 +35,8 @@
 </p>
 
 ## 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&color=informational&logo=java)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&color=informational&logo=python)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
@@ -44,7 +46,6 @@
 ![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
 ![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
-![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
 ## 📊 Statistics
