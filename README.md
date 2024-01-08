@@ -48,6 +48,8 @@
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
 ## 📊 Statistics
-[![Burak's github stats](https://github-readme-stats.vercel.app/api?username=erciktiburak&theme=white&count_private=true)](https://github.com/erciktiburak/github-readme-stats)
+
+[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=erciktiburak&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
