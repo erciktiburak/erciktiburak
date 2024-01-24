@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Burak</h2>
-<h3 align="center">I am a highly skilled Computer Science graduate with a solid understanding of fundamental principles, programming, and software development.</h3>
+<h4 align="center">I am a highly skilled Computer Science graduate with a solid understanding of fundamental principles, programming, and software development.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinnok18&label=Profile%20views&color=0e75b6&style=flat" alt="shinnok18" /> </p>
 
