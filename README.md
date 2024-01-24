@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Burak</h1>
+<h2 align="center">Hi 👋, I'm Burak</h2>
 <h3 align="center">I am a highly skilled Computer Science graduate with a solid understanding of fundamental principles, programming, and software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinnok18&label=Profile%20views&color=0e75b6&style=flat" alt="shinnok18" /> </p>
@@ -46,10 +46,5 @@
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
 ![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
-
-## 📊 Statistics
-
-[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=erciktiburak&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
