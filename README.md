@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/devopsnerds" target="blank"><img src="https://img.shields.io/twitter/follow/devopsnerds?logo=twitter&style=for-the-badge" alt="devopsnerds" /></a> </p>
 
-- 🔭 I’m currently working on [ERP automation](https://github.com/erciktiburak)
+- I’m currently working on [ERP automation](https://github.com/erciktiburak)
 
-- 🌱 I’m currently learning **DevOps tools + Front-end: JavaScript & Kubernetes**
+- I’m currently learning **DevOps tools + Front-end: JavaScript & Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://github.com/erciktiburak](https://github.com/erciktiburak)
+- All of my projects are available at [https://github.com/erciktiburak](https://github.com/erciktiburak)
 
-- 📝 I regularly write articles on [https://hashnode.com/@KurtC0bainn](https://hashnode.com/@KurtC0bainn)
+- I regularly write articles on [https://hashnode.com/@KurtC0bainn](https://hashnode.com/@KurtC0bainn)
 
-- 💬 Ask me about **Front-End | DevOps**
+- Ask me about **Front-End | DevOps**
 
-- 📫 How to reach me **belesceg@gmail.com**
+- How to reach me **belesceg@gmail.com**
 
-- ⚡ Fun fact **I'm an enthusiastic collector of vintage vinyl records and enjoy discovering hidden musical gems from different eras!**
+- Fun fact **I'm an enthusiastic collector of vintage vinyl records and enjoy discovering hidden musical gems from different eras!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +32,7 @@
 <a href="https://leetcode.com/KurtC0bainn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devkins" height="30" width="40" /></a>
 </p>
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&color=informational&logo=python)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
