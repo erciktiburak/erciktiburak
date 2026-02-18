@@ -15,8 +15,6 @@
 
 - Ask me about **Front-End | DevOps**
 
-- How to reach me **belesceg@gmail.com**
-
 - Fun fact **I'm an enthusiastic collector of vintage vinyl records and enjoy discovering hidden musical gems from different eras!**
 
 <h3 align="left">Connect with me:</h3>
