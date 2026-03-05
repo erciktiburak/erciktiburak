@@ -41,9 +41,10 @@ Outside of coding, I am an avid collector of vintage vinyl records.
 
 ---
 
-### GitHub Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erciktiburak&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erciktiburak&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)
+### Achievements & Activity
+![Trophies](https://github-profile-trophy.vercel.app/?username=erciktiburak&theme=tokyonight&no-bg=true&margin-w=15)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erciktiburak&theme=tokyonight&hide_border=true)
 
 ---
 
