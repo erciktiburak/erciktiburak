@@ -41,11 +41,7 @@
 
   ---
 
-  ### Achievements & Activity
-  <img src="https://github-profile-trophy.vercel.app/?username=erciktiburak&theme=flat" alt="Trophies" />
-  
-  <br/>
-  
+  ### Activity
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erciktiburak&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   ---
