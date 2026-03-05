@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTB2Z3V3amtwanhtdnZtdjR1ejlvcmlteWZoYjlwcWFnMGwweTR3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.gif" width="600" />
+</div>
+
+<br/>
+
 <h2 align="center">Hi 👋, I'm Burak</h2>
 <h5 align="center">I am a highly skilled Computer Science graduate with a solid understanding of fundamental principles, programming, and software development.</h5>
 
