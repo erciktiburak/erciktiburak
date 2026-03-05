@@ -43,8 +43,8 @@ Outside of coding, I am an avid collector of vintage vinyl records.
 
 ### GitHub Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erciktiburak&show_icons=true&theme=transparent&rank_icon=github" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erciktiburak&layout=compact&theme=transparent&hide=html,css" alt="Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erciktiburak&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erciktiburak&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
 </div>
 
 ---
@@ -58,5 +58,5 @@ Outside of coding, I am an avid collector of vintage vinyl records.
 
 <div align="center">
   <p><i>The best way to predict the future is to invent it.</i></p>
-  <img src="https://raw.githubusercontent.com/erciktiburak/erciktiburak/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/erciktiburak/erciktiburak/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
