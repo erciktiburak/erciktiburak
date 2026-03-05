@@ -2,51 +2,62 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTB2Z3V3amtwanhtdnZtdjR1ejlvcmlteWZoYjlwcWFnMGwweTR3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.gif" width="600" />
 </div>
 
-<br/>
+<div align="center">
+  <h1>Hi 👋, I'm Burak Ercikti</h1>
+  <p><strong>Computer Science Graduate | Software Engineer | DevOps Enthusiast</strong></p>
+</div>
 
-<h2 align="center">Hi 👋, I'm Burak</h2>
-<h5 align="center">I am a highly skilled Computer Science graduate with a solid understanding of fundamental principles, programming, and software development.</h5>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=erciktiburak&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <a href="https://linkedin.com/in/burakercikti" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/devopsnerds" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shinnok18&label=Profile%20views&color=0e75b6&style=flat" alt="shinnok18" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/devopsnerds" target="blank"><img src="https://img.shields.io/twitter/follow/devopsnerds?logo=twitter&style=for-the-badge" alt="devopsnerds" /></a> </p>
+### 🚀 About Me
+- 🎓 **Computer Science Graduate** with a passion for building scalable systems.
+- 🛠️ Currently focusing on **DevOps automation, Kubernetes, and Cloud-native technologies.**
+- ✍️ I write about technical insights on [Hashnode](https://hashnode.com/@KurtC0bainn).
+- 🎸 Fun fact: I'm a collector of **vintage vinyl records** and a music enthusiast!
 
-- I’m currently working on [ERP automation](https://github.com/erciktiburak)
+---
 
-- I’m currently learning **DevOps tools + Front-end: JavaScript & Kubernetes**
+### 🛠️ My Tech Stack
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+</div>
 
-- All of my projects are available at [https://github.com/erciktiburak](https://github.com/erciktiburak)
+---
 
-- I regularly write articles on [https://hashnode.com/@KurtC0bainn](https://hashnode.com/@KurtC0bainn)
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erciktiburak&show_icons=true&theme=tokyonight&count_private=true" alt="Burak's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erciktiburak&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
+</div>
 
-- Ask me about **Front-End | DevOps**
+---
 
-- Fun fact **I'm an enthusiastic collector of vintage vinyl records and enjoy discovering hidden musical gems from different eras!**
+### 🌟 Featured Projects
+- **[Lumina-Mesh](https://github.com/erciktiburak/Lumina-Mesh)** - High-performance service mesh exploration.
+- **[Nebula-Stream](https://github.com/erciktiburak/Nebula-Stream)** - Scalable real-time data streaming platform.
+- **[Sentinel-Stream](https://github.com/erciktiburak/Sentinel-Stream)** - Security-focused stream processing engine.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/kurtc0bainn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/kurtc0bainn" height="30" width="40" /></a>
-<a href="https://twitter.com/devopsnerds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/devopsnerds" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/burakercikti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/burakercikti/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23090443/devkins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devkins" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23090443/devkins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="devkins" height="30" width="40" /></a>
-<a href="https://hashnode.com/@KurtC0bainn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@KurtC0bainn" height="30" width="40" /></a>
-<a href="https://medium.com/@abathvarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devkins" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/abathvarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devkins" height="30" width="40" /></a>
-<a href="https://leetcode.com/KurtC0bainn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devkins" height="30" width="40" /></a>
-</p>
+---
 
-## Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&color=informational&logo=python)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational&logo=vue.js)
-![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
-![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
-![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
-![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
-
-<!--
+<div align="center">
+  <p><i>"The best way to predict the future is to invent it."</i></p>
+  <img src="https://raw.githubusercontent.com/erciktiburak/erciktiburak/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
