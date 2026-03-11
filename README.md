@@ -3,3 +3,6 @@
 
 <div align="center"><h3>🚀 Software Engineer | DevOps & Cloud Enthusiast</h3><p>Building scalable systems and exploring the depths of Kubernetes.</p></div>
 ---
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=erciktiburak&theme=radical&no-frame=false&column=7&margin-w=15" alt="github trophies" /></p>
+---
