@@ -20,3 +20,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erciktiburak&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erciktiburak&theme=tokyo-night" alt="Activity Graph" width="48%" />\n</p>\n---
