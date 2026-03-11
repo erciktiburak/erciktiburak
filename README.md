@@ -30,3 +30,5 @@
 | **[Nebula-Stream](https://github.com/erciktiburak/Nebula-Stream)** | Scalable real-time data streaming platform. | `Python` `Cloud` |\n| **[Sentinel-Stream](https://github.com/erciktiburak/Sentinel-Stream)** | Security-focused stream processing engine. | `DevOps` `Automation` |\n---
 
 <div align="center"><a href="https://linkedin.com/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></div>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=erciktiburak&color=blueviolet" alt="Visitor Count" /></p>
