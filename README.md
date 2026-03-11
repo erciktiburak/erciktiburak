@@ -21,3 +21,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erciktiburak&theme=tokyonight" alt="GitHub Streak" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=erciktiburak&theme=tokyo-night" alt="Activity Graph" width="48%" />\n</p>\n---
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[Lumina-Mesh](https://github.com/erciktiburak/Lumina-Mesh)** | High-performance service mesh exploration. | `Go` `Kubernetes` |
+| **[Nebula-Stream](https://github.com/erciktiburak/Nebula-Stream)** | Scalable real-time data streaming platform. | `Python` `Cloud` |\n| **[Sentinel-Stream](https://github.com/erciktiburak/Sentinel-Stream)** | Security-focused stream processing engine. | `DevOps` `Automation` |\n---
