@@ -19,3 +19,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erciktiburak&layout=compact&theme=tokyonight" alt="Top Langs" width="43%" />\n</p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erciktiburak&theme=tokyonight" alt="GitHub Streak" width="48%" />
