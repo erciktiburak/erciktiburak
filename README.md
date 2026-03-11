@@ -12,3 +12,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,linux,python,go,js,ts,react,bash,git,github,vscode" />
   </a>\n</p>\n---
+
+### 📊 Contribution & Stats
+<p align="center">
